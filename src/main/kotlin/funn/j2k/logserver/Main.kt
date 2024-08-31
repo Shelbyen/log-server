@@ -1,4 +1,4 @@
-package funn.j2k
+package funn.j2k.logserver
 
 fun main() {
     println("Hello World!")
