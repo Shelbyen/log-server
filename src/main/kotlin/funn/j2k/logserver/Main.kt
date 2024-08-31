@@ -23,7 +23,6 @@ fun main() = runBlocking {
                 }
             } catch (e: Throwable) {
                 println(e.message)
-                socket.close()
             }
         }
     }
